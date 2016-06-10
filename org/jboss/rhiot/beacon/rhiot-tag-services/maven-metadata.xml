@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.jboss.rhiot.beacon</groupId>
+  <artifactId>rhiot-tag-services</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.5-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160610220113</lastUpdated>
+  </versioning>
+</metadata>
