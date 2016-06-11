@@ -3,9 +3,11 @@
   <groupId>org.jboss.rhiot.beacon</groupId>
   <artifactId>rhiot-tag-services</artifactId>
   <versioning>
+    <release>1.0.6</release>
     <versions>
       <version>1.0.5-SNAPSHOT</version>
+      <version>1.0.6</version>
     </versions>
-    <lastUpdated>20160610220113</lastUpdated>
+    <lastUpdated>20160611231416</lastUpdated>
   </versioning>
 </metadata>
